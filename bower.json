@@ -1,0 +1,8 @@
+{
+  "name": "Kinvey Starter",
+  "private": "true",
+  "dependencies": {
+    "ionic": "^1.0.0",
+    "Kinvey": "^1.6.0"
+  }
+}
